@@ -441,7 +441,7 @@ button {
 }
 
 .err-message {
-  color: #c1272d;
+  color: #901e1e;
   font-size: 18px;
   text-align: center;
 }
@@ -453,7 +453,7 @@ button {
 }
 
 .clear-message {
-  background-color: #;
+  background-color: #901e1e;
   padding: 30px 30px 60px;
   position: relative;
 }
