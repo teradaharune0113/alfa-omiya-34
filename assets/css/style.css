@@ -58,19 +58,19 @@ input[type=text] {
 }
 
 ::-webkit-input-placeholder {
-  color: #999;
+  color: #000000;
 }
 
 :-ms-input-placeholder {
-  color: #999;
+  color: #000000;
 }
 
 ::-ms-input-placeholder {
-  color: #999;
+  color: #000000;
 }
 
 ::placeholder {
-  color: #999;
+  color: #000000;
 }
 
 button {
@@ -78,8 +78,8 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-  background-color: #006837;
-  color: #fff;
+  background-color: #000000;
+  color: #fff0000;
   width: 287px;
   height: 55px;
 }
@@ -147,7 +147,7 @@ button {
 }
 
 .card {
-  background-color: #fff;
+  background-color: #000000;
   margin-bottom: 20px;
   height: 100%;
 }
